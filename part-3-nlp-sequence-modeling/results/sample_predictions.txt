@@ -1,0 +1,15 @@
+Input: The refund process was fast and convenient.
+Prediction: positive
+
+Input: My refund is still pending and this experience is frustrating.
+Prediction: negative
+
+Input: Please tell me how to update my account details.
+Prediction: neutral
+
+Input: I am very happy with the customer support service.
+Prediction: positive
+
+Input: The issue has not been resolved yet.
+Prediction: positive
+
